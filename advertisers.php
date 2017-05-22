@@ -50,7 +50,7 @@
           </div>
           <div class="col-md-6">
             <div class="caption">
-              <h5>See value of Competitors advertising</h5>
+              <h5>See the value of any one, or all of your competitors advertising.</h5>
               <p>
                 Look at the value of the exposure of each one of your Competitors by
                 comparing the value of their marketing budgets.
